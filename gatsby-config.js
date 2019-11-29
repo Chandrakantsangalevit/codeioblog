@@ -46,7 +46,7 @@ module.exports = {
       disable: !process.env.ANALYZE_BUNDLE_SIZE,
       generateStatsFiles: true,
       analyzerMode: 'static',
-    },
+     },
   },
 ],
 };
